@@ -1,9 +1,11 @@
 start-msg = Hi {$user}!
-    <b>I'm Channel Actions Bot</b>, a bot mainly focused on working with the new <a href='https://t.me/telegram/153'>admin approval invite links</a>.
+    <b>I'm Channel Actions Bot</b>, a bot mainly focused on working with the new <a href='https://t.me/mrdebbots'>admin approval invite links</a>.
 
     <i>I can</i>:
     - <i>Auto approve new join requests</i>
     - <i>Auto Decline New Join Requests.</i>
+    
+    <b>Made With ❤️ by Mr Deb</b>
 
     <code>Click the below button to know how to use me!</code>
 
