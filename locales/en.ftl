@@ -5,7 +5,7 @@ start-msg = Hi {$user}!
     - <i>Auto approve new join requests</i>
     - <i>Auto Decline New Join Requests.</i>
     
-    <b>Made With ❤️ by Mr Deb</b>
+    <b>Made With ❤️ by <a href='https://t.me/ContactMrDebBot'>Mr Deb</a></b>
 
     <code>Click the below button to know how to use me!</code>
 
@@ -15,13 +15,7 @@ help = <b>Usage instructions.</b>
 
 usage-help = How to use me ❓
 
-updates = Owner
-
-updates1 = 🔥 DIRECT PREMIUM MOD APKS 🔥
-
-updates2 = 😍 FREE NETFLIX & ALL OTT MODS 😍
-
-updates3 = 🔞 ONLY FANS LEAKS & 18+ VIDEOS 🔞
+updates = 🔥 DIRECT PREMIUM MOD APKS 🔥
 
 no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
 
