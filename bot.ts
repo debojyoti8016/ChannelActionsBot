@@ -89,10 +89,7 @@ bot
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
         .text(ctx.t("usage-help"), "helper").row()
-        .url(ctx.t("updates1"), "https://t.me/+trAbbZVUOFIzMTQ1"),
-        .url(ctx.t("updates2"), "https://t.me/+gkzGB-a1ya0wZWRl"),
-        .url(ctx.t("updates3"), "https://t.me/+E6wed1glCvY2YTk1"),
-        .url(ctx.t("updates"), "https://t.me/ContactMrDebBot"),
+        .url(ctx.t("updates"), "https://t.me/+trAbbZVUOFIzMTQ1"),
       disable_web_page_preview: true,
     });
     await addUser(ctx.from.id);
@@ -115,10 +112,7 @@ bot.callbackQuery("start", async (ctx) => {
       {
         reply_markup: new InlineKeyboard()
           .text(ctx.t("usage-help"), "helper").row()
-          .url(ctx.t("updates1"), "https://t.me/+trAbbZVUOFIzMTQ1"),
-          .url(ctx.t("updates2"), "https://t.me/+gkzGB-a1ya0wZWRl"),
-          .url(ctx.t("updates3"), "https://t.me/+E6wed1glCvY2YTk1"),
-          .url(ctx.t("updates"), "https://t.me/ContactMrDebBot"),
+          .url(ctx.t("updates"), "https://t.me/+trAbbZVUOFIzMTQ1"),
         disable_web_page_preview: true,
         parse_mode: "HTML",
       },
