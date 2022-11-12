@@ -5,7 +5,8 @@ start-msg = Hi {$user}!
     - <i>Auto approve new join requests</i>
     - <i>Auto Decline New Join Requests.</i>
     
-    <b>Made With ❤️ by <a href='https://t.me/ContactMrDebBot'>Mr Deb</a></b>
+    <b>Made With ❤️ by Mr Deb</b>
+    <a href='https://t.me/ContactMrDebBot'>Contact US</a>
 
     <code>Click the below button to know how to use me!</code>
 
