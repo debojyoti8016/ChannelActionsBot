@@ -89,7 +89,7 @@ bot
       parse_mode: "HTML",
       reply_markup: new InlineKeyboard()
         .text(ctx.t("usage-help"), "helper").row()
-        .url(ctx.t("updates"), "https://t.me/BotzHub"),
+        .url(ctx.t("updates"), "https://t.me/ContactMrDebBot"),
       disable_web_page_preview: true,
     });
     await addUser(ctx.from.id);
@@ -97,8 +97,7 @@ bot
 
 bot.callbackQuery("helper", async (ctx) => {
   await ctx.editMessageText(
-    ctx.t("help") +
-      "\n\nTo approve members who are already in waiting list, upgrade to premium for 3$ per month! Contact @xditya_bot if interested.",
+    ctx.t("help"),
     {
       reply_markup: new InlineKeyboard().text("Main Menu 📭", "start"),
       parse_mode: "HTML",
@@ -113,7 +112,7 @@ bot.callbackQuery("start", async (ctx) => {
       {
         reply_markup: new InlineKeyboard()
           .text(ctx.t("usage-help"), "helper").row()
-          .url(ctx.t("updates"), "https://t.me/BotzHub"),
+          .url(ctx.t("updates"), "https://t.me/ContactMrDebBot"),
         disable_web_page_preview: true,
         parse_mode: "HTML",
       },
