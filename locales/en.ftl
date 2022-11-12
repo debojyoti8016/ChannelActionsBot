@@ -17,6 +17,12 @@ usage-help = How to use me ❓
 
 updates = Owner
 
+updates1 = 🔥 DIRECT PREMIUM MOD APKS 🔥
+
+updates2 = 😍 FREE NETFLIX & ALL OTT MODS 😍
+
+updates3 = 🔞 ONLY FANS LEAKS & 18+ VIDEOS 🔞
+
 no-perms = Either I am not added in the chat as admin, or you are not an admin in the chat!
 
 not-admin = You are not an admin in the chat!
